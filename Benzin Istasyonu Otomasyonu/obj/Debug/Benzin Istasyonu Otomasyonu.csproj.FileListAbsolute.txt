@@ -1,0 +1,15 @@
+C:\Users\mert_\Desktop\SOURCE'S\Benzin Istasyonu Otomasyonu\Benzin Istasyonu Otomasyonu\bin\Debug\Benzin Istasyonu Otomasyonu.exe.config
+C:\Users\mert_\Desktop\SOURCE'S\Benzin Istasyonu Otomasyonu\Benzin Istasyonu Otomasyonu\bin\Debug\Benzin Istasyonu Otomasyonu.exe
+C:\Users\mert_\Desktop\SOURCE'S\Benzin Istasyonu Otomasyonu\Benzin Istasyonu Otomasyonu\bin\Debug\Benzin Istasyonu Otomasyonu.pdb
+C:\Users\mert_\Desktop\SOURCE'S\Benzin Istasyonu Otomasyonu\Benzin Istasyonu Otomasyonu\obj\Debug\Benzin Istasyonu Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\mert_\Desktop\SOURCE'S\Benzin Istasyonu Otomasyonu\Benzin Istasyonu Otomasyonu\obj\Debug\Benzin Istasyonu Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert_\Desktop\SOURCE'S\Benzin Istasyonu Otomasyonu\Benzin Istasyonu Otomasyonu\obj\Debug\Benzin_Istasyonu_Otomasyonu.Form1.resources
+C:\Users\mert_\Desktop\SOURCE'S\Benzin Istasyonu Otomasyonu\Benzin Istasyonu Otomasyonu\obj\Debug\Benzin_Istasyonu_Otomasyonu.Properties.Resources.resources
+C:\Users\mert_\Desktop\SOURCE'S\Benzin Istasyonu Otomasyonu\Benzin Istasyonu Otomasyonu\obj\Debug\Benzin Istasyonu Otomasyonu.csproj.GenerateResource.cache
+C:\Users\mert_\Desktop\SOURCE'S\Benzin Istasyonu Otomasyonu\Benzin Istasyonu Otomasyonu\obj\Debug\Benzin Istasyonu Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\mert_\Desktop\SOURCE'S\Benzin Istasyonu Otomasyonu\Benzin Istasyonu Otomasyonu\obj\Debug\Benzin Istasyonu Otomasyonu.exe
+C:\Users\mert_\Desktop\SOURCE'S\Benzin Istasyonu Otomasyonu\Benzin Istasyonu Otomasyonu\obj\Debug\Benzin Istasyonu Otomasyonu.pdb
+C:\Users\mert_\Desktop\SOURCE'S\Benzin Istasyonu Otomasyonu\Benzin Istasyonu Otomasyonu\obj\Debug\Benzin_Istasyonu_Otomasyonu.menu.resources
+C:\Users\mert_\Desktop\SOURCE'S\Benzin Istasyonu Otomasyonu\Benzin Istasyonu Otomasyonu\obj\Debug\Benzin_Istasyonu_Otomasyonu.musteri.resources
+C:\Users\mert_\Desktop\SOURCE'S\Benzin Istasyonu Otomasyonu\Benzin Istasyonu Otomasyonu\obj\Debug\Benzin_Istasyonu_Otomasyonu.personel.resources
+C:\Users\mert_\Desktop\SOURCE'S\Benzin Istasyonu Otomasyonu\Benzin Istasyonu Otomasyonu\obj\Debug\Benzin_Istasyonu_Otomasyonu.satis.resources
